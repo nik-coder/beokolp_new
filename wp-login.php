@@ -5,11 +5,13 @@
 	<title>Log In &lsaquo; Beokolp &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
+<script type="text/javascript" src="./wp-content/plugins/weglot/dist/front-js.js?ver=3.3.4" id="wp-weglot-js-js"></script>
 <link rel="stylesheet" id="dashicons-css" href="./wp-includes/css/dashicons.min.css?ver=5.7" type="text/css" media="all">
 <link rel="stylesheet" id="buttons-css" href="./wp-includes/css/buttons.min.css?ver=5.7" type="text/css" media="all">
 <link rel="stylesheet" id="forms-css" href="./wp-admin/css/forms.min.css?ver=5.7" type="text/css" media="all">
 <link rel="stylesheet" id="l10n-css" href="./wp-admin/css/l10n.min.css?ver=5.7" type="text/css" media="all">
 <link rel="stylesheet" id="login-css" href="./wp-admin/css/login.min.css?ver=5.7" type="text/css" media="all">
+<link rel="stylesheet" id="weglot-css-css" href="./wp-content/plugins/weglot/dist/css/front-css.css?ver=3.3.4" type="text/css" media="">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -92,7 +94,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/bkolp\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="./wp-includes/js/wp-util.min.js?ver=5.7" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"e7ec3a154f"};
+var userProfileL10n = {"user_id":"0","nonce":"ee650e1d84"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
